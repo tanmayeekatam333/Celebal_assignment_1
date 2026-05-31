@@ -20,6 +20,7 @@ I completed my assignment 1 of week 1 using jupyter notebook as follows
    If discount<=20 then "Limited Offer"
    If discount<=50 then "Special Offer"
    If discount>50 then "Mega Sale"
+
 7.I saved the Cleaned dataset into "cleaned_dataset" csv file using to_csv method.
 
    
